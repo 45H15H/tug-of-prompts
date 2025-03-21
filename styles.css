@@ -53,6 +53,12 @@ nav ul li a {
 nav ul li a:hover {
     color: #e74c3c; /* Accent red */
 }
+#contact-us p {
+    font-size: 1.1rem;
+    color: #7f8c8d; /* Light gray */
+    margin-bottom: 1.5rem;
+    text-align: center; /* Ensures the paragraph is centered */
+}
 
 /* Section Styles */
 section {
